@@ -1,1 +1,1 @@
-# AWS-Lambda-custom-IAM-role
+custom IAM policy to work with polly and Lambda
